@@ -1,5 +1,5 @@
 #WebView Android com servidor proxy. (POC)
-Este documento tem como objetivo apresentar o conceito utilizado utilização do componente WebView do Android para consumo de URLS através de um proxy.
+Este documento tem como objetivo apresentar o conceito de utilização do componente WebView do Android para consumo de URLS através de um proxy.
 
 
 ##Proxy Transparente
